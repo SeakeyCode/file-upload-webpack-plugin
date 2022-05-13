@@ -1,7 +1,7 @@
 {
   "name": "file-upload-webpack-plugin",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
   "repository": "https://github.com/SeakeyCode/file-upload-webpack-plugin.git",
   "author": "陈海飞 <15378702772@163.com>",
   "license": "MIT",
